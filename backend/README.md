@@ -1,4 +1,4 @@
-# Bookify Coding Challenge
+# NodeJS, Firebase and Express (MVC)
 
 This project is a Backend app built in Nodejs, Firebase, and Express
 
