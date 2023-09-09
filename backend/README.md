@@ -50,8 +50,6 @@ To get started:
 2. On the left panel click _Firestore Database_, then click _Sign-in method_.
 3. Click _Create Database_. Choose _Start in test mode_, then Click _Next_.
 4. Choose the closest location in the dropdown menu, then Click _Enable_.
-To authenticate user on your server, get idToken and send it as `Authorization` header. I usually prefix it with the string `IDTOKEN.` so on the server I know what type of token was sent and how I should verify it. Of course you don't have to do that, and if you only expect this type of token you can skip the prefix. Here's client side example:
-
 
 ### Run the App
 
